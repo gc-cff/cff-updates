@@ -1,0 +1,4 @@
+[
+  { "icon": "lucide:sun", "name": "Light theme", "file": "light.css" },
+  { "icon": "lucide:moon", "name": "Dark theme", "file": "dark.css" }
+]
